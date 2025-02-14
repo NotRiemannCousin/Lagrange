@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles/Lagrange.dir/src/Function.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

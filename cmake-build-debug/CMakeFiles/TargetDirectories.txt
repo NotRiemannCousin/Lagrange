@@ -1,0 +1,4 @@
+C:/Users/MARCE/CLionProjects/Lagrange/cmake-build-debug/CMakeFiles/lagrange-essentials.dir
+C:/Users/MARCE/CLionProjects/Lagrange/cmake-build-debug/CMakeFiles/Lagrange.dir
+C:/Users/MARCE/CLionProjects/Lagrange/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/MARCE/CLionProjects/Lagrange/cmake-build-debug/CMakeFiles/rebuild_cache.dir

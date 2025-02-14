@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles/-lagrange-essentials.dir/src/NumericalMethods/Secant.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

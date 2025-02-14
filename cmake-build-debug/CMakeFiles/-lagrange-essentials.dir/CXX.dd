@@ -1,0 +1,13 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/-lagrange-essentials.dir/src/Util.cpp.obj: dyndep
+
+build CMakeFiles/-lagrange-essentials.dir/src/NumericalMethods/Newton.cpp.obj: dyndep
+
+build CMakeFiles/-lagrange-essentials.dir/src/NumericalMethods/Bisection.cpp.obj: dyndep
+
+build CMakeFiles/-lagrange-essentials.dir/src/NumericalMethods/FixedPoint.cpp.obj: dyndep
+
+build CMakeFiles/-lagrange-essentials.dir/src/NumericalMethods/Secant.cpp.obj: dyndep
+
+build CMakeFiles/-lagrange-essentials.dir/src/Function.cpp.obj: dyndep
+

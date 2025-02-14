@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles/Lagrange.dir/src/NumericalMethods/Newton.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

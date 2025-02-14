@@ -1,0 +1,9 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/_lagrange_essentials.dir/src/Util.cpp.obj: dyndep
+
+build CMakeFiles/_lagrange_essentials.dir/src/NumericalMethod.cpp.obj: dyndep
+
+build CMakeFiles/_lagrange_essentials.dir/src/NumericalMethods/Newton.cpp.obj: dyndep
+
+build CMakeFiles/_lagrange_essentials.dir/src/Function.cpp.obj: dyndep
+

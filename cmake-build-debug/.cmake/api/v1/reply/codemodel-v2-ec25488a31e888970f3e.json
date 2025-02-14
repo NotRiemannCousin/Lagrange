@@ -1,0 +1,65 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Lagrange::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lagrange-Debug-2d76583d8650be51634e.json",
+					"name" : "Lagrange",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lagrange-essentials::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lagrange-essentials-Debug-018b725d0900962ac535.json",
+					"name" : "lagrange-essentials",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/MARCE/CLionProjects/Lagrange/cmake-build-debug",
+		"source" : "C:/Users/MARCE/CLionProjects/Lagrange"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
